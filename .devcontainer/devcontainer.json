@@ -1,0 +1,13 @@
+{
+    "name": "Python Dev ENV",
+    "dockerFile": "Dockerfile",
+    "appPort": [3000],
+    "settings": {
+        "workbench.colorTheme": "Cobalt2",
+        "terminal.integrated.defaultProfile.linux": "/bin/bash"
+    },
+    "extensions": [
+        "wesbos.theme-cobalt2",
+        "esbenp.prettier-vscode"
+    ]
+}
